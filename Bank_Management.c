@@ -75,7 +75,7 @@ int main() {
                 break;
             }
             case 4:
-                printf("Your current balance: $%.2f\n", balance);
+                printf("Your current balance: Rs %.2f\n", balance);
                 break;
             case 5:
                 printf("Viewing transaction history:\n");
