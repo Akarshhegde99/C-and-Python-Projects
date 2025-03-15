@@ -1,5 +1,3 @@
-# JAVA Basics
-\
-I am practicing Java and DSA || 
-AND SOME PROJECTS ARE HERE.........
+# Basic Programming L Projects
 
+For better knowledge on Languages through Projects
